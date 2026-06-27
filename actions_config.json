@@ -1,0 +1,32 @@
+{
+  "windows": {
+    "A": "start https://www.amazon.com",
+    "B": "start https://www.bing.com",
+    "C": "calc",
+    "D": "start discord",
+    "E": "start https://www.ebay.com",
+    "F": "start https://www.facebook.com",
+    "G": "start https://www.google.com",
+    "H": "start https://www.hulu.com",
+    "I": "start https://www.instagram.com",
+    "J": "start https://www.japantimes.co.jp",
+    "K": "osk",
+    "L": "start https://www.linkedin.com",
+    "M": "msedge",
+    "N": "notepad",
+    "O": "start outlook",
+    "P": "explorer",
+    "Q": "start https://www.quora.com",
+    "R": "start https://www.reddit.com",
+    "S": "start https://open.spotify.com",
+    "T": "start https://www.twitter.com",
+    "U": "start https://www.unicef.org",
+    "V": "start steam://open",
+    "W": "start https://web.whatsapp.com",
+    "X": "taskkill /IM python.exe /F",
+    "Y": "start https://www.youtube.com",
+    "Z": "start https://zoom.us/signin#/login"
+  },
+  "darwin": {},
+  "linux": {}
+}
